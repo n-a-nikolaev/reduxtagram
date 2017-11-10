@@ -1,0 +1,8 @@
+{
+    "emmet.syntaxProfiles": {
+        "javascript": "js",
+        "xml": {
+            "attr_quotes": "single"
+        }
+    }
+}
